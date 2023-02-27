@@ -1,1 +1,2 @@
-# hash-table-implementation
+Week 05: Hash Table Implementation practice
+
